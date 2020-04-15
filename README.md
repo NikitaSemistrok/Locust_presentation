@@ -1,9 +1,9 @@
-##Steps for testing Locust
+<b>Steps for testing Locust</b>
 * Setup pyenv `python3 -m venv .venv`
 * Activate pyenv `source .venv/bin/activate`
 * Install requirements `pip3 install -r requirements.txt`
 
-####After it, we're ready to start test!
+<b>After it, we're ready to start test!</b>
 
 * Start Locust `locust -f locust.py`
 
